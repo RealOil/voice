@@ -1,0 +1,6 @@
+gTTS
+edge_tts
+openai
+streamlit
+streamlit-audiorecorder
+audioop-lts
